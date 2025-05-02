@@ -4,6 +4,9 @@
 
 ## 📸 Preview
 
+![image](https://github.com/user-attachments/assets/bac2924c-e972-41c0-9223-cd5365a616d2)
+
+
 ## ✨ Features
 
 - Move the player using keyboard arrows or WASD.
